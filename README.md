@@ -7,7 +7,7 @@
                 <img src="media/ayanokoji.gif">
             </p>
         </td>
-        <td width="700" valign="top">
+        <td width="700" valign="center">
           <img src="https://nirzak-streak-stats.vercel.app/?user=JayHaych&amp;theme=dracula&amp;hide_border=false" alt="Streak Stats">
         </td>
     </tr>
