@@ -47,10 +47,10 @@
 
 <table>
     <tr>
-        <td width="140" valign="middle" align="center">
+        <td valign="middle" align="center">
             <h3 style="margin: 0;">Coding Languages:</h3>
         </td>
-        <td width="700" valign="left">
+        <td valign="left">
           <div align="left">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
             <img width="12" />
