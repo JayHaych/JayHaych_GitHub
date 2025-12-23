@@ -2,12 +2,12 @@
 
 <table>
     <tr>
-        <td width="500" valign="center">
+        <td>
             <p>
                 <img src="media/ayanokoji.gif">
             </p>
         </td>
-        <td width="700" valign="center">
+        <td>
           <table style="border-collapse: collapse; font-family: sans-serif; line-height: 1.6;">
             <tr>
               <td style="padding-right: 15px;"><b>👤 Gender:</b></td>
