@@ -47,7 +47,7 @@
 
 <table>
     <tr>
-        <td width="280" valign="center">
+        <td width="280" valign="center" halign="center">
             <h3>Coding Languages:</h3>
         </td>
         <td width="700" valign="center">
