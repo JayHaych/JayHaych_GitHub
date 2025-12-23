@@ -47,7 +47,7 @@
 
 <table>
     <tr>
-        <td width="280" valign="middle" align="center" style="padding-right: 20px;">
+        <td width="150" valign="middle" align="center" style="padding-right: 20px;">
             <h3 style="margin: 0; white-space: nowrap;">Coding Languages:</h3>
         </td>
         <td width="700" valign="left">
