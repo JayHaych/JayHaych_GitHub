@@ -2,28 +2,39 @@
 
 <table>
     <tr>
-        <td width="500">
+        <td width="500" valign="center">
             <p>
                 <img src="media/ayanokoji.gif">
             </p>
         </td>
         <td width="700" valign="center">
-          <img src="https://nirzak-streak-stats.vercel.app/?user=JayHaych&amp;theme=dracula&amp;hide_border=false" alt="Streak Stats">
+          <p>
+                <b>Gender:</b>Male<br>
+                <b>From:</b>Singapore<br>
+                <b>Education:</b>Bachelor of Computing in Data Science and Artificial Intelligence<br>
+          </p>
         </td>
     </tr>
 </table>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JayHaych&show_icons=true&theme=dracula" alt="Github Stats">
-</div>
+<table align="center">
+  <tr>
+    <td width="700" valign="center">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=JayHaych&amp;theme=dracula&amp;hide_border=false" alt="Streak Stats">
+    </td>
+    <td width="700" valign="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=JayHaych&show_icons=true&theme=dracula" alt="Github Stats">
+    </td>
+  </tr>
+</table>
 
 ###
 
 <table>
     <tr>
-        <td width="280">
+        <td width="280" valign="center">
             <h3>Coding Languages:</h3>
         </td>
         <td width="700" valign="center">
