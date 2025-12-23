@@ -8,11 +8,20 @@
             </p>
         </td>
         <td width="700" valign="center">
-          <p>
-                <b>Gender:</b>Male<br>
-                <b>From:</b>Singapore<br>
-                <b>Education:</b>Bachelor of Computing in Data Science and Artificial Intelligence<br>
-          </p>
+          <table style="border-collapse: collapse; font-family: sans-serif; line-height: 1.6;">
+            <tr>
+              <td style="padding-right: 15px;"><b>👤 Gender:</b></td>
+              <td>Male</td>
+            </tr>
+            <tr>
+              <td style="padding-right: 15px;"><b>📍 From:</b></td>
+              <td>Singapore</td>
+            </tr>
+            <tr>
+              <td style="padding-right: 15px; vertical-align: top;"><b>🎓 Education:</b></td>
+              <td>Bachelor of Computing in Data Science and Artificial Intelligence</td>
+            </tr>
+          </table>
         </td>
     </tr>
 </table>
@@ -21,10 +30,10 @@
 
 <table align="center">
   <tr>
-    <td width="700" valign="center">
+    <td>
       <img src="https://nirzak-streak-stats.vercel.app/?user=JayHaych&amp;theme=dracula&amp;hide_border=false" alt="Streak Stats">
     </td>
-    <td width="700" valign="center">
+    <td>
       <img src="https://github-readme-stats.vercel.app/api?username=JayHaych&show_icons=true&theme=dracula" alt="Github Stats">
     </td>
   </tr>
