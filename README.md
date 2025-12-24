@@ -71,26 +71,38 @@
             </div>
         </td>
         <td style="padding-top: 10px;">
-          <div style="display: flex; flex-direction: column; gap: 12px; align-items: flex-start;">
-            <div style="display: flex; align-items: center; gap: 12px;">
-              <a href="https://instagram.com/jh_tee_1207" target="_blank" style="text-decoration: none;">
-              <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="28" alt="instagram logo" />
-              </a>
-              <span style="font-family: sans-serif; color: #333; font-size: 14px; font-weight: 500;background-color: #f0f0f0;padding: 4px 10px; border-radius: 6px;">@jh_tee_1207</span>
-            </div>
-            <a href="mailto:JTEE013@e.ntu.edu.sg" style="text-decoration: none;">
-              <div style="display: flex; align-items: center; gap: 12px;">
-                <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="28" alt="gmail logo" />
-                <span style="font-family: sans-serif; color: #333; font-size: 14px; font-weight: 500;background-color: #f0f0f0;padding: 4px 10px; border-radius: 6px;">JTEE013@e.ntu.edu.sg</span>
-              </div>
-            </a>
-            <a href="https://www.linkedin.com/in/jia-hong-tee/" target="_blank" style="text-decoration: none;">
-              <div style="display: flex; align-items: center; gap: 12px;">
-                <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="28" alt="linkedin logo" />
+          <table style="border-collapse: collapse; font-family: sans-serif; line-height: 1.6;">
+            <tr>
+              <td style="padding-right: 15px;">
+                <a href="https://instagram.com/jh_tee_1207" target="_blank" style="text-decoration: none;">
+                  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="28" alt="instagram logo" />
+                </a>
+              </td>
+              <td>
+                <span valign="center" style="font-family: sans-serif; color: #333; font-size: 14px; font-weight: 500;background-color: #f0f0f0;padding: 4px 10px; border-radius: 6px;">@jh_tee_1207
+                </span>
+              </td>
+            </tr>
+            <tr>
+              <td style="padding-right: 15px;">
+                <a href="mailto:JTEE013@e.ntu.edu.sg" style="text-decoration: none;">
+                  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="28" alt="gmail logo" />
+                </a>
+              </td>
+              <td><span style="font-family: sans-serif; color: #333; font-size: 14px; font-weight: 500;background-color: #f0f0f0;padding: 4px 10px; border-radius: 6px;">JTEE013@e.ntu.edu.sg</span>
+              </td>
+            </tr>
+            <tr>
+              <td style="padding-right: 15px; vertical-align: top;">
+                <a href="https://www.linkedin.com/in/jia-hong-tee/" target="_blank" style="text-decoration: none;">
+                  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="28" alt="linkedin logo" />
+                </a>
+              </td>
+              <td>
                 <span style="font-family: sans-serif; color: #333; font-size: 14px; font-weight: 500;background-color: #f0f0f0;padding: 4px 10px; border-radius: 6px;">https://www.linkedin.com/in/jia-hong-tee/</span>
-              </div>
-            </a>
-          </div>
+              </td>
+            </tr>
+          </table>
         </td>
     </tr>
 </table>
